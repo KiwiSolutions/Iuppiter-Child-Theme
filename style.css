@@ -347,7 +347,7 @@ Y8888P'  `Y88P'  Y8888D'    YP
 	}
 	
 	.energietechnologien_blog_section .et_pb_module_header {
-        text-align: center;
+        text-align: center !important;
 	}
 }
 /*===========================================================================*/
