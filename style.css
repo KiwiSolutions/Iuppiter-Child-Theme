@@ -385,13 +385,6 @@ d888888b d88888b  .d8b.  .88b  d88.
 
 .ueber-uns_team_column .et_pb_team_member_image img {
   margin-bottom: 15px;
-  height: 200px;
-}
-
-@media all and (min-width: 1366px) {
-  .ueber-uns_team_column .et_pb_team_member_image img {
-    height: 300px;
-  }
 }
 
 /*===================style images of team on mobile============================*/
